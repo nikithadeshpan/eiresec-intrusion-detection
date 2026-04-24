@@ -1,4 +1,4 @@
-# EireSec Intrusion Detection Lab
+# EireSec Intrusion Detection
 
 ## Overview
 This project simulates a vulnerable server environment and demonstrates how cyber attacks can be detected using Splunk SIEM.
