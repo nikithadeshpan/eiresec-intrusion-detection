@@ -36,5 +36,19 @@ I was responsible for **Detection and Evidence Collection using Splunk SIEM**.
 - Python Flask
 - Linux Logs
 
+## Screenshots
+
+### Baseline Activity
+![Baseline](screenshots/splunk-baseline.png)
+
+### Post-Attack Activity
+![Attack](screenshots/post-attack.png)
+
+### Authentication Logs
+![Auth Logs](screenshots/auth-logs.png)
+
+### System Logs (AppArmor)
+![Syslogs](screenshots/syslogs.png)
+
 ## Disclaimer
 This project was conducted in a controlled lab environment for educational purposes only.
