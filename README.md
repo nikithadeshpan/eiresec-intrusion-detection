@@ -50,5 +50,10 @@ I was responsible for **Detection and Evidence Collection using Splunk SIEM**.
 ### System Logs (AppArmor)
 ![Syslogs](screenshots/syslogs.png)
 
+## Splunk Analysis
+
+Detailed detection queries and analysis:
+
+[View Splunk Detection & Analysis](splunk/splunk-search-queries.md)
 ## Disclaimer
 This project was conducted in a controlled lab environment for educational purposes only.
